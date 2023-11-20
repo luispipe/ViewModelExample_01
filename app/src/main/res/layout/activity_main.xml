@@ -36,5 +36,6 @@
         android:layout_below="@id/button"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
+        android:text="0"
         android:textSize="60sp" />
 </RelativeLayout>
